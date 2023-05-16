@@ -1,0 +1,315 @@
+
+ 
+ 
+	Programmer-----
+			a person who is responsible for writing programs
+				public static void main(){}
+				classes-------------------Object Oriented PRogramming
+
+				------C, C++,Java, C#-----------------------language
+			     Java runtime, .net runtime------------runtime
+			     objects, collection-------------------collection framework
+			     Creating Exeuctable application-------Web Applin, database connectivity (tools)
+			      
+	Software Enggineer-------
+
+				
+			    SE----------Softwarwe Engg/ System Engg.
+			    SSE----------Senior Software Engg.
+
+
+	 
+		
+	How Enggineer word arrived ?
+	 
+	ingenerare------latin word
+				
+				to invent-------------			
+				to discover
+				to create
+				to regulate------------fine tunning
+
+	Art:   Creativity
+	Science:facts
+	technology:use of science for humanity
+	
+	Engineering:art of science
+		    appliation of Sceicne
+			discipline------
+				is the use of scientific principles to  design
+								    to  build machines, structures, softwares
+									     bridges, vehicles,
+									     building
+								    
+		BRS: ( Business Analyst)
+			
+				Bussiness Requirement Specification
+		
+		SRS : (System Analyst)
+
+				Software Requirement Specificiation
+
+		Design:(Software Architect -system Designer)
+				
+				POC---Proof Of Concept Design
+				UML Diagrams
+				ER Diagrams
+
+		Developer(Software Develoepr)
+		
+				Code Respositories,
+				Built Solutions----
+
+
+
+Follow Software Engineering:
+
+			Process:
+			Process Model:
+			Software Developement Life Cycle (SDLC)
+			
+					Planning
+					defining
+					Designing
+					Building
+					Testing
+					Deplouyment
+							
+			
+			Planning and Requirement Analysis:
+					client meeting
+					survey
+					campagin
+					Explore other businesses providing similar kind services
+
+					so that we will be able to gather requirement:
+
+What is the full meaning of engineering?
+Engineering is the use of scientific principles to design and build machines, structures, and other items, including bridges, tunnels, roads, vehicles, and buildings. ... The term engineering is derived from the Latin ingenium, meaning "cleverness" and ingeniare, meaning "to contrive, devise".
+
+
+Engineering is a branch of science and technology 
+that is concerned with design, building etc. 
+with the concern of its effect on society, economy and environment.
+
+What do you mean by Software ?
+
+Software as a product (SaaP, also programming product, software product) — is a product, software, which is made to be sold to users, and users pay for licence which allows them to use it, in contrast to SaaS, where users buy subscription and where the software is centrally hosted.
+
+
+Some examples are facebook, Google AdWords, SAP, AutoCAD and Microsoft Office. Mixed: in this case, the product solves the problem both for end customers and companies. Usually, this type of products doesn't have any cost for the end customer; companies pay the bill.
+
+
+Software ENGINEERING CODE OF ETHICS AND LICENSE
+
+A software engineer is often confused with a programmer, but the two are vastly different disciplines. 
+A programmer is tasked with creating the code that makes a program run, whereas a software engineer is responsible for designing, developing and implementing the software solutions programmers create.
+
+By U.S. law no person may use the title “engineer” (of any type) unless the person holds a professional engineering license from a state licensing board and is in good standing with the board. 
+
+A software engineer is also held accountable to a specific code of ethics.
+
+
+
+SOFTWARE ENGINEER JOB DESCRIPTION AND REQUIREMENTS
+
+The role of a software engineer, or computer software engineer, is to develop highly functional, solution-based software processes and solutions that address specific needs within an organization or department. These software solutions need to have been thoroughly tested for accuracy and security before implementation, and they need to comply with current coding standards and operating procedures.
+
+Software engineers are tasked with evaluating existing operations within the company, finding and defining problems or areas for improvement, proposing and developing solutions for these issues in the form of new or improved software processes, and testing, implementing, and maintaining these software changes.
+
+This requires in-depth knowledge and experience with the software development lifecycle (SDLC) and the ability to write and explain code created in a variety of languages such as C++, .NET, Java, Python, etc. A software engineer needs to be able to communicate at both a very in-depth, detailed level with computer programmers .
+WHAT DOES A SOFTWARE ENGINEER DO IN A TYPICAL DAY?
+
+A software engineer’s typical work day involves juggling a variety of tasks and balancing working on numerous software projects that are often in different stages of the software development lifecycle (SDLC). Meetings to discuss software project status updates, new software project roadmaps, and organizational logistics such as new hires also play a key role in a software engineer’s workweek.
+
+Software engineers are expected to prioritize their tasks while working on several software projects in parallel, and as a result their work day might involve writing or refining software code for one project in the morning before attending or running a meeting to cover the progress on another software project, followed by conceptualizing and developing ideas and requirements for an upcoming project, before finally wrapping up the day by documenting milestones and progress made over the course of the day or week.
+
+a computer software engineer’s work regularly involves:
+
+1.Analyzing spreadsheets and reports to identify performance bottlenecks, operational issues, and other areas for improvement
+2.Brainstorming and developing plans, flowcharts, layouts and resource requests as part of creating new software projects as potential solutions for identified issues
+3.Write high-quality, well-commented code for new and existing software projects
+4.Create software verification plans and initiate quality assurance processes
+5.Test and integrate software code and components into existing software systems
+6.Fully document software systems and plans for maintaining software projects
+7.Ensure compliance with regulations and industry standards
+8.Monitor, troubleshoot, debug and improve software code base for existing systems
+9.Update and patch software systems as necessary with security patches and feature upgrades
+
+
+HOW DO YOU BECOME A SOFTWARE ENGINEER?
+A software engineer needs to possess extensive knowledge and fluency in a variety of computer languages such as C++, .NET, Java, and Python, and be able to effectively and efficiently communicate technical knowledge with others in the organization.
+
+In larger organizations, software engineers often have specialized roles in areas such as servers, operating systems, networks, databases, cloud, applications and virtualization.
+
+A computer software engineer will typically need a Bachelor’s degree (or Master’s) in computer science, math / engineering, or science, and will need to show experience and proficiency in analytical and problem-solving skills, communicating and working well with others, specialized software knowledge, and time management.
+
+Finally, companies will want to see that a software engineer has a proven track record of writing code that is efficient, complies with coding standards, and integrates well with code written by others.
+
+
+Software Processes
+
+A software process is the set of activities and associated outcome that produce a software product. Software engineers mostly carry out these activities. These are four key process activities, which are common to all software processes. These activities are:
+
+1.Software specifications: The functionality of the software and constraints on its operation must be defined.
+2.Software development: The software to meet the requirement must be produced.
+3.Software validation: The software must be validated to ensure that it does what the customer wants.
+4.Software evolution: The software must evolve to meet changing client needs.
+
+Why is Software Engineering required?
+
+Software Engineering is required due to the following reasons:
+
+1.To manage Large software
+2.For more Scalability
+3.Cost Management
+4.To manage the dynamic nature of software
+5.For better quality Management
+
+Need of Software Engineering
+
+The necessity of software engineering appears because of a higher rate of progress in user requirements and the environment on which the program is working.
+
+Huge Programming: 
+
+It is simpler to manufacture a wall than to a house or building, similarly, as the measure of programming become extensive engineering has to step to give it a scientific process.
+Adaptability: If the software procedure were not based on scientific and engineering ideas, it would be simpler to re-create new software than to scale an existing one.
+
+Cost: 
+As the hardware industry has demonstrated its skills and huge manufacturing has let down the cost of computer and electronic hardware. But the cost of programming remains high if the proper process is not adapted.
+
+Dynamic Nature: 
+The continually growing and adapting nature of programming hugely depends upon the environment in which the client works. If the quality of the software is continually changing, new upgrades need to be done in the existing one.
+
+Quality Management: 
+Better procedure of software development provides a better and quality software product.
+
+
+SDLC (Software Development Life Cycle)
+Software Development Life Cycle (SDLC) is a process used by the software industry to design, develop and test high quality softwares. 
+The SDLC aims to produce a high-quality software that meets or exceeds customer expectations, reaches completion within times and cost estimates.
+
+SDLC Models
+1.Waterfall Model
+2.Iterative Model
+3.Spiral Model
+4.V-Model
+
+1.Waterfall Model
+
+In a waterfall model, each phase must be completed before the next phase can begin and there is no overlapping in the phases.
+The Waterfall model is the earliest SDLC approach that was used for software development.
+The waterfall Model illustrates the software development process in a linear sequential flow. 
+This means that any phase in the development process begins only if the previous phase is complete. 
+In this waterfall model, the phases do not overlap.
+
+The sequential phases in Waterfall model are −
+
+Requirement Gathering and analysis − 
+All possible requirements of the system to be developed are captured in this phase and documented in a requirement specification document.
+
+System Design − 
+The requirement specifications from first phase are studied in this phase and the system design is prepared. 
+This system design helps in specifying hardware and system requirements and helps in defining the overall system architecture.
+
+Implementation − 
+With inputs from the system design, the system is first developed in small programs called units, which are integrated in the next phase. 
+Each unit is developed and tested for its functionality, which is referred to as Unit Testing.
+
+Integration and Testing − 
+All the units developed in the implementation phase are integrated into a system after testing of each unit. 
+Post integration the entire system is tested for any faults and failures.
+
+Deployment of system − 
+Once the functional and non-functional testing is done; the product is deployed in the customer environment or released into the market.
+
+Maintenance − 
+There are some issues which come up in the client environment. 
+To fix those issues, patches are released. 
+Also to enhance the product some better versions are released. Maintenance is done to deliver these changes in the customer environment.
+
+Waterfall Model - Advantages
+
+Simple and easy to understand and use
+Easy to manage due to the rigidity of the model. Each phase has specific deliverables and a review process.
+Phases are processed and completed one at a time.
+Works well for smaller projects where requirements are very well understood.
+Clearly defined stages.
+Well understood milestones.
+Easy to arrange tasks.
+Process and results are well documented.
+
+
+Waterfall Model - Disadvantages
+No working software is produced until late during the life cycle.
+High amounts of risk and uncertainty.
+Not a good model for complex and object-oriented projects.
+Poor model for long and ongoing projects.
+Not suitable for the projects where requirements are at a moderate to high risk of changing. So, risk and uncertainty is high with this process model.
+It is difficult to measure progress within stages.
+Cannot accommodate changing requirements.
+Adjusting scope during the life cycle can end a project.
+Integration is done as a "big-bang. at the very end, which doesn't allow identifying any technological or business bottleneck or challenges early.
+
+_______________________________________________________________________________________________________
+Non Functional Requirements:
+
+When designing a system solution, the first thing all stakeholders are concerned with is that it works, meaning that it satisfies the functional requirements. However, besides considering what the solution will do, it’s also important to think about how they’ll work. The fact that the system operates on a basic level, performing its primary function, doesn’t mean that the product will provide a good user experience. And, this is where the non-functional requirements come into play.
+
+Defining and implementing non functional requirements will ensure that the system runs smoothly and features quality attributes that are necessary for meeting the needs of the end-user. While they’re not mandatory or related to system functionality, NFR(Non Functional Requirments)s set constraints that define how the system should perform. Avoiding them can lead to vital problems and, ultimately, the product’s failure to meet stakeholder and user expectations or fulfil the needs of the business.
+
+What are Non Functional Requirements?
+What are non functional requirements? Simply put, non functional requirements are constraints imposed on the system. They’re used to define the quality attributes which will determine how the system operates. Their main purpose is to make the product (application, software, website, or other) run more efficiently and thus improve the user experience. Unlike functional requirements that specify certainly functions of behaviours, the NFRs set the criteria to evaluate the performance of the system.
+
+They provide information on the overall property of the solution and what it should be, rather than defining what a system should do. By setting constraints and describing operation capabilities, these requirements serve to enhance the system’s functionality.
+
+Still, they don’t impact the basic functions, the system will function on a basic level even if the non-functional requirements are not set. Their true value lies in better usability. However, the qualities they define can be rather ambiguous and more complex than traditional functional requirements which often can make setting the NFRs and measuring success a bit tricky.
+
+Failure to properly define NFRs or even avoid them altogether before the start of a project can result in critical issues which can leave stakeholders, developers, and users unsatisfied. Not addressing non-functional requirements properly will also lead to inconsistent products and significantly increase the time and cost needed to fix a potential issue.
+
+The business have a tendency to miss them altogether which means the business analyst needs to help the business in identifying these. There are some obvious ones that are identified quickly and easily such as system availability, acceptable response times and there may be cost and time constraints.
+
+The remainder are often overlooked. It is very important to devote the effort extracting these as they can be critical to the project success and a significant contributor to cost which will increase if they are identified later in the project. 
+
+
+Non Functional Requirements Examples
+In order to better understand how the non functional requirements are defined, here are some examples of the above-listed quality attributes.
+
+Below are the main types of non functional requirements:
+Scalability, Reliability, Availability, Regultory, Recoverability, Capacity, Maintainability,
+Servicebility, Security, Manageability, Interoperability, Usability
+
+Scalability – 
+The limit of maximum attendance of the website must be scalable enough to support 300.000 visits at the same time while maintaining optimal performance
+
+Reliability –
+ The process of updating the database must be designed in a way that rolls back any related updates in case any of the updates fails
+
+Regulatory – 
+The security of the database must protect sensitive information in a way that complies with HIPPA requirements
+
+Maintainability – 
+In case the automated e-mail service becomes unavailable, it can’t be under maintenance for more than three hours
+
+Serviceability – 
+The automated e-mails can be edited or replaced by uploading an XML file eliminating the need for recompiling any code
+
+Utility – 
+For users who use to navigate the website, the “Add to cart” button mustn’t be removed from the product page more than 15 clicks
+
+Security – 
+Each time they load the new page, users will be prompted to provide an electronic signature
+
+Manageability – 
+The site will stay up and running while the administrator edits the code for users’ profile pages.
+
+Here, are some examples of Non functional requirements:
+
+Users must change the initially assigned login password immediately after the first successful login. Moreover, the initial should never be reused.
+Employees never allowed to update their salary information. Such attempt should be reported to the security administrator.
+Every unsuccessful attempt by a user to access an item of data shall be recorded on an audit trail.
+A website should be capable enough to handle 20 million users with affecting its performance
+The software should be portable. So moving from one OS to other OS does not create any problem.
+Privacy of information, the export of restricted technologies, intellectual property rights, etc. should be audited.
+
+The site should load in 3 seconds when the number of simultaneous users are > 10000. Description of non-functional requirements is just as critical as a functional requirement.
